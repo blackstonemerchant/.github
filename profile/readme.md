@@ -6,5 +6,5 @@ Need detailed, step-by-step instructions? Check out our [Integration Guides](htt
 
 ## Contact
 
-- Website: <https://blackstonemerchant.com/>
+- Website: <https://blackstonemerchant.com>
 - Email: <info@blackstonemerchant.com>
