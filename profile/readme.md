@@ -2,7 +2,7 @@
 
 ## Integration Guides
 
-Need detailed, step-by-step instructions? Check out our [Integration Guides](https://blackstonemerchant.github.io/integration-guides).
+Need detailed, step-by-step instructions? Check out our [Integration Guides](https://blackstonemerchant.github.io/integration-guides)
 
 ## Contact
 
